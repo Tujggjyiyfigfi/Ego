@@ -1,13 +1,20 @@
 {
-
-  "name": "ego",
-
-  "description": "downloader express",
-
-  "repository": "https://github.com/Tujggjyiyfigfi/Ego/tree/main",
-
-  "logo": "https://node-js-sample.herokuapp.com/node.png",
-
-  "keywords": ["node", "express", "static"]
-
+  "name": "my-app",
+  "scripts": {
+    "start": "go run main.go"
+  },
+  "buildpacks": [
+    {
+      "url": "heroku/go"
+    }
+  ],
+  "port": "2222"
 }
+
+
+
+
+
+
+
+
