@@ -1,0 +1,13 @@
+{
+
+  "name": "ego",
+
+  "description": "downloader express",
+
+  "repository": "https://github.com/Tujggjyiyfigfi/Ego/tree/main",
+
+  "logo": "https://node-js-sample.herokuapp.com/node.png",
+
+  "keywords": ["node", "express", "static"]
+
+}
